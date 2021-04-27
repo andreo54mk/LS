@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Назва": "ЦСК ЗСУ (Київ)", "Корабел": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.478402, 50.444712 ] } },
+{ "type": "Feature", "properties": { "Назва": "Локомотив (Київ)", "Корабел": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.481128, 50.438774 ] } },
+{ "type": "Feature", "properties": { "Назва": "Колос  (Ковалівка)", "Корабел": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.008436, 49.985904 ] } },
+{ "type": "Feature", "properties": { "Назва": "Машинобудівник ім. Віталія Качановського (Фастів)", "Корабел": "1" }, "geometry": { "type": "Point", "coordinates": [ 29.922338, 50.079747 ] } },
+{ "type": "Feature", "properties": { "Назва": "Центральний (Миколаїв)", "Корабел": "1" }, "geometry": { "type": "Point", "coordinates": [ 31.960709, 46.971322 ] } },
+{ "type": "Feature", "properties": { "Назва": "Верхній (Миколаїв)", "Корабел": "1" }, "geometry": { "type": "Point", "coordinates": [ 31.962737, 46.972698 ] } },
+{ "type": "Feature", "properties": { "Назва": "Кристал (Херсон)", "Корабел": "1" }, "geometry": { "type": "Point", "coordinates": [ 32.625425, 46.63645 ] } },
+{ "type": "Feature", "properties": { "Назва": "Спартак (Херсон)", "Корабел": "1" }, "geometry": { "type": "Point", "coordinates": [ 32.620479, 46.637765 ] } },
+{ "type": "Feature", "properties": { "Назва": "Старт (Олешки)", "Корабел": "1" }, "geometry": { "type": "Point", "coordinates": [ 32.718948, 46.617113 ] } },
+{ "type": "Feature", "properties": { "Назва": "Старт (Новотроїцьке)", "Корабел": "1" }, "geometry": { "type": "Point", "coordinates": [ 34.326203, 46.359405 ] } },
+{ "type": "Feature", "properties": { "Назва": "Харчовик (Білозерка)", "Корабел": "1" }, "geometry": { "type": "Point", "coordinates": [ 32.441994, 46.627889 ] } },
+{ "type": "Feature", "properties": { "Назва": "Локомотив (Сміла)", "Корабел": "1" }, "geometry": { "type": "Point", "coordinates": [ 31.896336, 49.189326 ] } },
+{ "type": "Feature", "properties": { "Назва": "Авангард (Сміла)", "Корабел": "1" }, "geometry": { "type": "Point", "coordinates": [ 31.862969, 49.224422 ] } },
+{ "type": "Feature", "properties": { "Назва": "Центральний (Умань)", "Корабел": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.215117, 48.747658 ] } }
+]
+}

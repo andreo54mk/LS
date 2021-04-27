@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Назва": "Зміна (Київ)", "Валентин": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.507596, 50.499036 ] } },
+{ "type": "Feature", "properties": { "Назва": "Економіст (Київ)", "Валентин": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.43317, 50.458655 ] } },
+{ "type": "Feature", "properties": { "Назва": "Лівий Берег (Київ)", "Валентин": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.624025, 50.336559 ] } },
+{ "type": "Feature", "properties": { "Назва": "Козак-Арена (П.Борщагівка)", "Валентин": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.339668, 50.437083 ] } },
+{ "type": "Feature", "properties": { "Назва": "Діназ (Демидів)", "Валентин": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.384316, 50.682065 ] } }
+]
+}

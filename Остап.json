@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Назва": "Лівий Берег (Київ)", "Остап": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.624025, 50.336559 ] } },
+{ "type": "Feature", "properties": { "Назва": "Спартак (Бровари)", "Остап": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.794313, 50.506242 ] } },
+{ "type": "Feature", "properties": { "Назва": "Колос  (Ковалівка)", "Остап": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.008436, 49.985904 ] } },
+{ "type": "Feature", "properties": { "Назва": "Машинобудівник ім. Віталія Качановського (Фастів)", "Остап": "1" }, "geometry": { "type": "Point", "coordinates": [ 29.922338, 50.079747 ] } },
+{ "type": "Feature", "properties": { "Назва": "Ворскла (Полтава)", "Остап": "1" }, "geometry": { "type": "Point", "coordinates": [ 34.549234, 49.594787 ] } }
+]
+}

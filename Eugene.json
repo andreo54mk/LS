@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Назва": "Рух (Івано-Франківськ)", "Eugene": "1" }, "geometry": { "type": "Point", "coordinates": [ 24.695978, 48.90801 ] } },
+{ "type": "Feature", "properties": { "Назва": "Хет-Трик (Івано-Франківськ)", "Eugene": "1" }, "geometry": { "type": "Point", "coordinates": [ 24.693441, 48.907654 ] } }
+]
+}

@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Назва": "ЦСК ЗСУ (Київ)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.478402, 50.444712 ] } },
+{ "type": "Feature", "properties": { "Назва": "Олімпійський (Київ)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.521854, 50.433372 ] } },
+{ "type": "Feature", "properties": { "Назва": "Динамо (Київ)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.535185, 50.450403 ] } },
+{ "type": "Feature", "properties": { "Назва": "НТК ім. Баннікова (Київ)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.525271, 50.429005 ] } },
+{ "type": "Feature", "properties": { "Назва": "Локомотив (Київ)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.481128, 50.438774 ] } },
+{ "type": "Feature", "properties": { "Назва": "Колос (Бориспіль)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.952263, 50.354073 ] } },
+{ "type": "Feature", "properties": { "Назва": "Спартак (Бровари)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.794313, 50.506242 ] } },
+{ "type": "Feature", "properties": { "Назва": "Дружба (Березань)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 31.461523, 50.310536 ] } },
+{ "type": "Feature", "properties": { "Назва": "Ворскла (Полтава)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 34.549234, 49.594787 ] } },
+{ "type": "Feature", "properties": { "Назва": "Локомотив (Полтава)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 34.577011, 49.582556 ] } },
+{ "type": "Feature", "properties": { "Назва": "Авіатор (Полтава)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 34.506694, 49.609021 ] } },
+{ "type": "Feature", "properties": { "Назва": "НТБ Полтава (Копили)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 34.62631, 49.560038 ] } },
+{ "type": "Feature", "properties": { "Назва": "Кредмаш (Кременчук)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 33.420335, 49.067962 ] } },
+{ "type": "Feature", "properties": { "Назва": "Політехнік (Кременчук)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 33.432282, 49.089382 ] } },
+{ "type": "Feature", "properties": { "Назва": "Кремінь-Арена (Кременчук)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 33.4288, 49.077369 ] } },
+{ "type": "Feature", "properties": { "Назва": "Центральний (Лубни)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 33.002506, 50.008466 ] } },
+{ "type": "Feature", "properties": { "Назва": "Торпедо (Лубни)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 32.982304, 50.02273 ] } },
+{ "type": "Feature", "properties": { "Назва": "Колос (Решетилівка)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 34.87354, 49.446191 ] } },
+{ "type": "Feature", "properties": { "Назва": "Ювілейний (Пирятин)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 32.508931, 50.247767 ] } },
+{ "type": "Feature", "properties": { "Назва": "Супутник (Прилуки)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 32.395431, 50.58573 ] } },
+{ "type": "Feature", "properties": { "Назва": "Спартак (Ніжин)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 31.874047, 51.055099 ] } }
+]
+}

@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Назва": "Зміна (Київ)", "Andreo54MK": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.507596, 50.499036 ] } },
+{ "type": "Feature", "properties": { "Назва": "Темп (Київ)", "Andreo54MK": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.384665, 50.460837 ] } },
+{ "type": "Feature", "properties": { "Назва": "Оболонь-Арена (Київ)", "Andreo54MK": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.507542, 50.527046 ] } },
+{ "type": "Feature", "properties": { "Назва": "Спартак (Київ)", "Andreo54MK": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.474905, 50.4832 ] } },
+{ "type": "Feature", "properties": { "Назва": "Борекс (Бородянка)", "Andreo54MK": "1" }, "geometry": { "type": "Point", "coordinates": [ 29.939949, 50.648501 ] } },
+{ "type": "Feature", "properties": { "Назва": "Центральний ім. М. Бруквенка (Макарів)", "Andreo54MK": "1" }, "geometry": { "type": "Point", "coordinates": [ 29.8049, 50.458867 ] } },
+{ "type": "Feature", "properties": { "Назва": "Діназ (Лютіж)", "Andreo54MK": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.331814, 50.725562 ] } },
+{ "type": "Feature", "properties": { "Назва": "Діназ (Демидів)", "Andreo54MK": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.384316, 50.682065 ] } }
+]
+}

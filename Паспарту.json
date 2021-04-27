@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Назва": "Спартак (Бровари)", "Паспарту": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.794313, 50.506242 ] } }
+]
+}

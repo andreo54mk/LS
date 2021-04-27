@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Назва": "Метеор (Дніпро)", "MD": "1" }, "geometry": { "type": "Point", "coordinates": [ 35.005451, 48.435693 ] } },
+{ "type": "Feature", "properties": { "Назва": "Олімпійські резерви (Дніпро)", "MD": "1" }, "geometry": { "type": "Point", "coordinates": [ 35.019286, 48.432974 ] } },
+{ "type": "Feature", "properties": { "Назва": "Електрометалург (Нікополь)", "MD": "1" }, "geometry": { "type": "Point", "coordinates": [ 34.392593, 47.562302 ] } },
+{ "type": "Feature", "properties": { "Назва": "Славутич-Арена (Запоріжжя)", "MD": "1" }, "geometry": { "type": "Point", "coordinates": [ 35.097016, 47.858951 ] } },
+{ "type": "Feature", "properties": { "Назва": "АвтоЗАЗ (Запоріжжя)", "MD": "1" }, "geometry": { "type": "Point", "coordinates": [ 35.193286, 47.801085 ] } },
+{ "type": "Feature", "properties": { "Назва": "КПУ (Запоріжжя)", "MD": "1" }, "geometry": { "type": "Point", "coordinates": [ 35.179124, 47.822985 ] } },
+{ "type": "Feature", "properties": { "Назва": "Орбіта (Запоріжжя)", "MD": "1" }, "geometry": { "type": "Point", "coordinates": [ 35.128275, 47.837206 ] } },
+{ "type": "Feature", "properties": { "Назва": "Мотор-Січ (Запоріжжя)", "MD": "1" }, "geometry": { "type": "Point", "coordinates": [ 35.206718, 47.829586 ] } },
+{ "type": "Feature", "properties": { "Назва": "НТБ Металург (Запоріжжя)", "MD": "1" }, "geometry": { "type": "Point", "coordinates": [ 35.095911, 47.910258 ] } },
+{ "type": "Feature", "properties": { "Назва": "Олімпійський (Каховка)", "MD": "1" }, "geometry": { "type": "Point", "coordinates": [ 33.470342, 46.803787 ] } },
+{ "type": "Feature", "properties": { "Назва": "Енергія (Н.Каховка)", "MD": "1" }, "geometry": { "type": "Point", "coordinates": [ 33.363247, 46.763759 ] } }
+]
+}
