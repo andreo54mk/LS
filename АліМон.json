@@ -12,6 +12,7 @@
 { "type": "Feature", "properties": { "Назва": "Ворскла (Полтава)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 34.549234, 49.594787 ] } },
 { "type": "Feature", "properties": { "Назва": "Локомотив (Полтава)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 34.577011, 49.582556 ] } },
 { "type": "Feature", "properties": { "Назва": "Авіатор (Полтава)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 34.506694, 49.609021 ] } },
+{ "type": "Feature", "properties": { "Назва": "Лтава (Полтава)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 34.613349, 49.611968 ] } },
 { "type": "Feature", "properties": { "Назва": "НТБ Полтава (Копили)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 34.62631, 49.560038 ] } },
 { "type": "Feature", "properties": { "Назва": "Кредмаш (Кременчук)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 33.420335, 49.067962 ] } },
 { "type": "Feature", "properties": { "Назва": "Політехнік (Кременчук)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 33.432282, 49.089382 ] } },
@@ -19,6 +20,7 @@
 { "type": "Feature", "properties": { "Назва": "Центральний (Лубни)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 33.002506, 50.008466 ] } },
 { "type": "Feature", "properties": { "Назва": "Торпедо (Лубни)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 32.982304, 50.02273 ] } },
 { "type": "Feature", "properties": { "Назва": "Колос (Решетилівка)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 34.87354, 49.446191 ] } },
+{ "type": "Feature", "properties": { "Назва": "Промінь (Стасі) ", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 34.570091, 49.743591 ] } },
 { "type": "Feature", "properties": { "Назва": "Ювілейний (Пирятин)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 32.508931, 50.247767 ] } },
 { "type": "Feature", "properties": { "Назва": "Супутник (Прилуки)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 32.395431, 50.58573 ] } },
 { "type": "Feature", "properties": { "Назва": "Спартак (Ніжин)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 31.874047, 51.055099 ] } }

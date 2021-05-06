@@ -3,6 +3,8 @@
 "features": [
 { "type": "Feature", "properties": { "Назва": "Зміна (Київ)", "Andreo54MK": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.507596, 50.499036 ] } },
 { "type": "Feature", "properties": { "Назва": "Темп (Київ)", "Andreo54MK": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.384665, 50.460837 ] } },
+{ "type": "Feature", "properties": { "Назва": "НТБ Динамо (Київ)", "Andreo54MK": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.56434, 50.32221 ] } },
+{ "type": "Feature", "properties": { "Назва": "НТБ Динамо (манеж) (Київ)", "Andreo54MK": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.569866, 50.322244 ] } },
 { "type": "Feature", "properties": { "Назва": "Оболонь-Арена (Київ)", "Andreo54MK": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.507542, 50.527046 ] } },
 { "type": "Feature", "properties": { "Назва": "Спартак (Київ)", "Andreo54MK": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.474905, 50.4832 ] } },
 { "type": "Feature", "properties": { "Назва": "Борекс (Бородянка)", "Andreo54MK": "1" }, "geometry": { "type": "Point", "coordinates": [ 29.939949, 50.648501 ] } },

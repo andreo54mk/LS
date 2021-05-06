@@ -3,8 +3,25 @@
 "features": [
 { "type": "Feature", "properties": { "Назва": "Зміна (Київ)", "Валентин": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.507596, 50.499036 ] } },
 { "type": "Feature", "properties": { "Назва": "Економіст (Київ)", "Валентин": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.43317, 50.458655 ] } },
+{ "type": "Feature", "properties": { "Назва": "Схід (Київ)", "Валентин": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.643114, 50.426586 ] } },
+{ "type": "Feature", "properties": { "Назва": "Політ (Київ)", "Валентин": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.443394, 50.415389 ] } },
+{ "type": "Feature", "properties": { "Назва": "Спартак (Київ)", "Валентин": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.474905, 50.4832 ] } },
 { "type": "Feature", "properties": { "Назва": "Лівий Берег (Київ)", "Валентин": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.624025, 50.336559 ] } },
 { "type": "Feature", "properties": { "Назва": "Козак-Арена (П.Борщагівка)", "Валентин": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.339668, 50.437083 ] } },
-{ "type": "Feature", "properties": { "Назва": "Діназ (Демидів)", "Валентин": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.384316, 50.682065 ] } }
+{ "type": "Feature", "properties": { "Назва": "Діназ (Демидів)", "Валентин": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.384316, 50.682065 ] } },
+{ "type": "Feature", "properties": { "Назва": "Чорноморець (Одеса)", "Валентин": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.755442, 46.479408 ] } },
+{ "type": "Feature", "properties": { "Назва": "СКА (Одеса)", "Валентин": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.748039, 46.463296 ] } },
+{ "type": "Feature", "properties": { "Назва": "Спартак (Одеса)", "Валентин": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.748474, 46.46839 ] } },
+{ "type": "Feature", "properties": { "Назва": "Будгідравлика (Одеса)", "Валентин": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.690587, 46.463699 ] } },
+{ "type": "Feature", "properties": { "Назва": "ФСК Іван (Одеса)", "Валентин": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.711433, 46.496191 ] } },
+{ "type": "Feature", "properties": { "Назва": "Тріумф (Одеса)", "Валентин": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.695667, 46.473051 ] } },
+{ "type": "Feature", "properties": { "Назва": "СОК Люстдорф (Одеса)", "Валентин": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.692346, 46.343998 ] } },
+{ "type": "Feature", "properties": { "Назва": "Краян (Одеса)", "Валентин": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.729859, 46.463285 ] } },
+{ "type": "Feature", "properties": { "Назва": "Олімпік (Чорноморськ)", "Валентин": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.650439, 46.299509 ] } },
+{ "type": "Feature", "properties": { "Назва": "Шкільний (Чорноморськ)", "Валентин": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.659022, 46.302981 ] } },
+{ "type": "Feature", "properties": { "Назва": "ДЮСШ (Білгород-Дністровський)", "Валентин": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.350552, 46.190215 ] } },
+{ "type": "Feature", "properties": { "Назва": "Дністер (Овідіополь)", "Валентин": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.449671, 46.246499 ] } },
+{ "type": "Feature", "properties": { "Назва": "Локомотив (Олександрівка)", "Валентин": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.626562, 46.324898 ] } },
+{ "type": "Feature", "properties": { "Назва": "\"Маяк\" ім. Костянтина Любчика (Маяки)", "Валентин": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.274844, 46.411263 ] } }
 ]
 }
