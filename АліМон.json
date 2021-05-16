@@ -1,6 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
+{ "type": "Feature", "properties": { "Назва": "Авангард (Ужгород)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 22.276314, 48.623633 ] } },
+{ "type": "Feature", "properties": { "Назва": "Авангард (Мукачеве)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 22.722827, 48.44723 ] } },
+{ "type": "Feature", "properties": { "Назва": "Спартак (Мукачеве)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 22.734908, 48.448219 ] } },
 { "type": "Feature", "properties": { "Назва": "ЦСК ЗСУ (Київ)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.478402, 50.444712 ] } },
 { "type": "Feature", "properties": { "Назва": "Олімпійський (Київ)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.521854, 50.433372 ] } },
 { "type": "Feature", "properties": { "Назва": "Динамо (Київ)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.535185, 50.450403 ] } },

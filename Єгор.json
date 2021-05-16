@@ -23,6 +23,7 @@
 { "type": "Feature", "properties": { "Назва": "Олімпійський (Київ)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.521854, 50.433372 ] } },
 { "type": "Feature", "properties": { "Назва": "Динамо (Київ)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.535185, 50.450403 ] } },
 { "type": "Feature", "properties": { "Назва": "Економіст (Київ)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.43317, 50.458655 ] } },
+{ "type": "Feature", "properties": { "Назва": "НТБ Динамо (Київ)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.56434, 50.32221 ] } },
 { "type": "Feature", "properties": { "Назва": "НТК ім. Баннікова (Київ)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.525271, 50.429005 ] } },
 { "type": "Feature", "properties": { "Назва": "Локомотив (Київ)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.481128, 50.438774 ] } },
 { "type": "Feature", "properties": { "Назва": "Схід (Київ)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.643114, 50.426586 ] } },
@@ -31,12 +32,16 @@
 { "type": "Feature", "properties": { "Назва": "Колос (Миронівка)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.979675, 49.656895 ] } },
 { "type": "Feature", "properties": { "Назва": "Трудові Резерви (Біла Церква)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.123696, 49.793324 ] } },
 { "type": "Feature", "properties": { "Назва": "Зміна (Біла Церква)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.09078, 49.786321 ] } },
+{ "type": "Feature", "properties": { "Назва": "Машинобудівник ім. Віталія Качановського (Фастів)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 29.922338, 50.079747 ] } },
 { "type": "Feature", "properties": { "Назва": "Ніка (Олександрія)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 33.103952, 48.674343 ] } },
 { "type": "Feature", "properties": { "Назва": "Олімп (Олександрія)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 33.068563, 48.664597 ] } },
 { "type": "Feature", "properties": { "Назва": "Ворскла (Полтава)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 34.549234, 49.594787 ] } },
 { "type": "Feature", "properties": { "Назва": "Локомотив (Полтава)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 34.577011, 49.582556 ] } },
 { "type": "Feature", "properties": { "Назва": "Міський ім. Р. Шухевича (Тернопіль)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 25.609249, 49.552998 ] } },
 { "type": "Feature", "properties": { "Назва": "КДЮСШ (Тернопіль)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 25.58799, 49.543413 ] } },
+{ "type": "Feature", "properties": { "Назва": "Харчовик (Чортків)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 25.792363, 49.005127 ] } },
+{ "type": "Feature", "properties": { "Назва": "Колос (Теребовля)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 25.693358, 49.295205 ] } },
+{ "type": "Feature", "properties": { "Назва": "Дністер (Заліщики)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 25.747342, 48.663241 ] } },
 { "type": "Feature", "properties": { "Назва": "Металіст (Харків)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 36.261513, 49.980854 ] } },
 { "type": "Feature", "properties": { "Назва": "ХТЗ (Харків)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 36.352161, 49.957225 ] } },
 { "type": "Feature", "properties": { "Назва": "Схід (Харків)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 36.388156, 49.939655 ] } },
@@ -47,6 +52,7 @@
 { "type": "Feature", "properties": { "Назва": "Локомотив (Куп'янськ-Вузловий)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 37.645927, 49.648304 ] } },
 { "type": "Feature", "properties": { "Назва": "Поділля (Хмельницький)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 26.995414, 49.42085 ] } },
 { "type": "Feature", "properties": { "Назва": "ДЮСШ-1 (Хмельницький)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 27.00757, 49.41424 ] } },
-{ "type": "Feature", "properties": { "Назва": "Юність (Волочиськ)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 26.209844, 49.539852 ] } }
+{ "type": "Feature", "properties": { "Назва": "Юність (Волочиськ)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 26.209844, 49.539852 ] } },
+{ "type": "Feature", "properties": { "Назва": "Мальва (Чернівці)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 25.916281, 48.314494 ] } }
 ]
 }

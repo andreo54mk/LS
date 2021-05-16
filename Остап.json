@@ -1,6 +1,12 @@
 {
 "type": "FeatureCollection",
 "features": [
+{ "type": "Feature", "properties": { "Назва": "Авангард (Ужгород)", "Остап": "1" }, "geometry": { "type": "Point", "coordinates": [ 22.276314, 48.623633 ] } },
+{ "type": "Feature", "properties": { "Назва": "Авангард (Мукачеве)", "Остап": "1" }, "geometry": { "type": "Point", "coordinates": [ 22.722827, 48.44723 ] } },
+{ "type": "Feature", "properties": { "Назва": "Спартак (Мукачеве)", "Остап": "1" }, "geometry": { "type": "Point", "coordinates": [ 22.734908, 48.448219 ] } },
+{ "type": "Feature", "properties": { "Назва": "Карпати (Хуст)", "Остап": "1" }, "geometry": { "type": "Point", "coordinates": [ 23.279042, 48.177859 ] } },
+{ "type": "Feature", "properties": { "Назва": "Дружба (Берегове)", "Остап": "1" }, "geometry": { "type": "Point", "coordinates": [ 22.655901, 48.198548 ] } },
+{ "type": "Feature", "properties": { "Назва": "Міський (Тячів)", "Остап": "1" }, "geometry": { "type": "Point", "coordinates": [ 23.557906, 48.019873 ] } },
 { "type": "Feature", "properties": { "Назва": "Лівий Берег (Київ)", "Остап": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.624025, 50.336559 ] } },
 { "type": "Feature", "properties": { "Назва": "Спартак (Бровари)", "Остап": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.794313, 50.506242 ] } },
 { "type": "Feature", "properties": { "Назва": "Колос  (Ковалівка)", "Остап": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.008436, 49.985904 ] } },
