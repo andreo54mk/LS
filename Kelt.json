@@ -48,7 +48,7 @@
 { "type": "Feature", "properties": { "Назва": "Колос (інша назва - СНАУ) (Суми)", "Kelt": "1" }, "geometry": { "type": "Point", "coordinates": [ 34.774593, 50.883059 ] } },
 { "type": "Feature", "properties": { "Назва": "Барса (Суми)", "Kelt": "1" }, "geometry": { "type": "Point", "coordinates": [ 34.819324, 50.922794 ] } },
 { "type": "Feature", "properties": { "Назва": "Нафтовик (Охтирка)", "Kelt": "1" }, "geometry": { "type": "Point", "coordinates": [ 34.889789, 50.298342 ] } },
-{ "type": "Feature", "properties": { "Назва": "Юність (Конотоп)", "Kelt": "1" }, "geometry": { "type": "Point", "coordinates": [ 32.72295, 50.494736 ] } },
+{ "type": "Feature", "properties": { "Назва": "Юність (Конотоп)", "Kelt": "1" }, "geometry": { "type": "Point", "coordinates": [ 33.205767, 51.241039 ] } },
 { "type": "Feature", "properties": { "Назва": "Ювілейний (Красноград)", "Kelt": "1" }, "geometry": { "type": "Point", "coordinates": [ 35.46244, 49.368709 ] } },
 { "type": "Feature", "properties": { "Назва": "Кристал (Херсон)", "Kelt": "1" }, "geometry": { "type": "Point", "coordinates": [ 32.625425, 46.63645 ] } },
 { "type": "Feature", "properties": { "Назва": "Спартак (Херсон)", "Kelt": "1" }, "geometry": { "type": "Point", "coordinates": [ 32.620479, 46.637765 ] } },
