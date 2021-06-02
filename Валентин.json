@@ -9,6 +9,7 @@
 { "type": "Feature", "properties": { "Назва": "Спартак (Київ)", "Валентин": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.474905, 50.4832 ] } },
 { "type": "Feature", "properties": { "Назва": "НУБіП (Київ)", "Валентин": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.498696, 50.382818 ] } },
 { "type": "Feature", "properties": { "Назва": "Лівий Берег (Київ)", "Валентин": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.624025, 50.336559 ] } },
+{ "type": "Feature", "properties": { "Назва": "СК Обухів ім. Володимира Мельника (Обухів)", "Валентин": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.649479, 50.121641 ] } },
 { "type": "Feature", "properties": { "Назва": "Козак-Арена (П.Борщагівка)", "Валентин": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.339668, 50.437083 ] } },
 { "type": "Feature", "properties": { "Назва": "Діназ (Демидів)", "Валентин": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.384316, 50.682065 ] } },
 { "type": "Feature", "properties": { "Назва": "Чорноморець (Одеса)", "Валентин": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.755442, 46.479408 ] } },

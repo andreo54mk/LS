@@ -8,6 +8,7 @@
 { "type": "Feature", "properties": { "Назва": "Дружба (Берегове)", "Остап": "1" }, "geometry": { "type": "Point", "coordinates": [ 22.655901, 48.198548 ] } },
 { "type": "Feature", "properties": { "Назва": "Міський (Тячів)", "Остап": "1" }, "geometry": { "type": "Point", "coordinates": [ 23.557906, 48.019873 ] } },
 { "type": "Feature", "properties": { "Назва": "Лівий Берег (Київ)", "Остап": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.624025, 50.336559 ] } },
+{ "type": "Feature", "properties": { "Назва": "Колос (Бориспіль)", "Остап": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.952263, 50.354073 ] } },
 { "type": "Feature", "properties": { "Назва": "Спартак (Бровари)", "Остап": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.794313, 50.506242 ] } },
 { "type": "Feature", "properties": { "Назва": "Колос  (Ковалівка)", "Остап": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.008436, 49.985904 ] } },
 { "type": "Feature", "properties": { "Назва": "Машинобудівник ім. Віталія Качановського (Фастів)", "Остап": "1" }, "geometry": { "type": "Point", "coordinates": [ 29.922338, 50.079747 ] } },
@@ -15,8 +16,13 @@
 { "type": "Feature", "properties": { "Назва": "Радіозавод (Золочів)", "Остап": "1" }, "geometry": { "type": "Point", "coordinates": [ 24.897147, 49.807662 ] } },
 { "type": "Feature", "properties": { "Назва": "ДЮСШ (Буськ)", "Остап": "1" }, "geometry": { "type": "Point", "coordinates": [ 24.610636, 49.96823 ] } },
 { "type": "Feature", "properties": { "Назва": "Ворскла (Полтава)", "Остап": "1" }, "geometry": { "type": "Point", "coordinates": [ 34.549234, 49.594787 ] } },
+{ "type": "Feature", "properties": { "Назва": "Локомотив (Полтава)", "Остап": "1" }, "geometry": { "type": "Point", "coordinates": [ 34.577011, 49.582556 ] } },
 { "type": "Feature", "properties": { "Назва": "Авангард (Каховка)", "Остап": "1" }, "geometry": { "type": "Point", "coordinates": [ 33.484, 46.815374 ] } },
 { "type": "Feature", "properties": { "Назва": "Олімпійський (Каховка)", "Остап": "1" }, "geometry": { "type": "Point", "coordinates": [ 33.470342, 46.803787 ] } },
-{ "type": "Feature", "properties": { "Назва": "Енергія (Н.Каховка)", "Остап": "1" }, "geometry": { "type": "Point", "coordinates": [ 33.363247, 46.763759 ] } }
+{ "type": "Feature", "properties": { "Назва": "Енергія (Н.Каховка)", "Остап": "1" }, "geometry": { "type": "Point", "coordinates": [ 33.363247, 46.763759 ] } },
+{ "type": "Feature", "properties": { "Назва": "Буковина (Чернівці)", "Остап": "1" }, "geometry": { "type": "Point", "coordinates": [ 25.942025, 48.274928 ] } },
+{ "type": "Feature", "properties": { "Назва": "Мальва (Чернівці)", "Остап": "1" }, "geometry": { "type": "Point", "coordinates": [ 25.916281, 48.314494 ] } },
+{ "type": "Feature", "properties": { "Назва": "Садгора (Чернівці)", "Остап": "1" }, "geometry": { "type": "Point", "coordinates": [ 25.956965, 48.353005 ] } },
+{ "type": "Feature", "properties": { "Назва": "ФОК \"Олімпія\" (Чернівці)", "Остап": "1" }, "geometry": { "type": "Point", "coordinates": [ 25.94431, 48.255191 ] } }
 ]
 }

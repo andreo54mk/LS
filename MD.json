@@ -3,6 +3,7 @@
 "features": [
 { "type": "Feature", "properties": { "Назва": "Метеор (Дніпро)", "MD": "1" }, "geometry": { "type": "Point", "coordinates": [ 35.005451, 48.435693 ] } },
 { "type": "Feature", "properties": { "Назва": "Олімпійські резерви (Дніпро)", "MD": "1" }, "geometry": { "type": "Point", "coordinates": [ 35.019286, 48.432974 ] } },
+{ "type": "Feature", "properties": { "Назва": "ПГЗК (Кривий Ріг)", "MD": "1" }, "geometry": { "type": "Point", "coordinates": [ 33.341875, 47.840757 ] } },
 { "type": "Feature", "properties": { "Назва": "Електрометалург (Нікополь)", "MD": "1" }, "geometry": { "type": "Point", "coordinates": [ 34.392593, 47.562302 ] } },
 { "type": "Feature", "properties": { "Назва": "Славутич-Арена (Запоріжжя)", "MD": "1" }, "geometry": { "type": "Point", "coordinates": [ 35.097016, 47.858951 ] } },
 { "type": "Feature", "properties": { "Назва": "АвтоЗАЗ (Запоріжжя)", "MD": "1" }, "geometry": { "type": "Point", "coordinates": [ 35.193286, 47.801085 ] } },

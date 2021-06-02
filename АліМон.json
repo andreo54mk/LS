@@ -22,9 +22,13 @@
 { "type": "Feature", "properties": { "Назва": "Кремінь-Арена (Кременчук)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 33.4288, 49.077369 ] } },
 { "type": "Feature", "properties": { "Назва": "Центральний (Лубни)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 33.002506, 50.008466 ] } },
 { "type": "Feature", "properties": { "Назва": "Торпедо (Лубни)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 32.982304, 50.02273 ] } },
+{ "type": "Feature", "properties": { "Назва": "Старт (Миргород)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 33.598064, 49.975503 ] } },
+{ "type": "Feature", "properties": { "Назва": "Юність (Горішні Плавні)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 33.648151, 49.004061 ] } },
 { "type": "Feature", "properties": { "Назва": "Колос (Решетилівка)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 34.87354, 49.446191 ] } },
+{ "type": "Feature", "properties": { "Назва": "Колос (Велика Багачка)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 34.087465, 49.564843 ] } },
 { "type": "Feature", "properties": { "Назва": "Промінь (Стасі) ", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 34.570091, 49.743591 ] } },
 { "type": "Feature", "properties": { "Назва": "Ювілейний (Пирятин)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 32.508931, 50.247767 ] } },
+{ "type": "Feature", "properties": { "Назва": "Авіатор (Нові Санжари)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 34.310281, 49.339979 ] } },
 { "type": "Feature", "properties": { "Назва": "Супутник (Прилуки)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 32.395431, 50.58573 ] } },
 { "type": "Feature", "properties": { "Назва": "Спартак (Ніжин)", "АліМон": "1" }, "geometry": { "type": "Point", "coordinates": [ 31.874047, 51.055099 ] } }
 ]
