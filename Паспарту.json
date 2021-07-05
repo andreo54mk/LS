@@ -1,6 +1,10 @@
 {
 "type": "FeatureCollection",
 "features": [
+{ "type": "Feature", "properties": { "Назва": "ЦСК ЗСУ (Київ)", "Паспарту": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.478402, 50.444712 ] } },
+{ "type": "Feature", "properties": { "Назва": "Олімпійський (Київ)", "Паспарту": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.521854, 50.433372 ] } },
+{ "type": "Feature", "properties": { "Назва": "НТК ім. Баннікова (Київ)", "Паспарту": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.525271, 50.429005 ] } },
+{ "type": "Feature", "properties": { "Назва": "Локомотив (Київ)", "Паспарту": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.481128, 50.438774 ] } },
 { "type": "Feature", "properties": { "Назва": "Спартак (Бровари)", "Паспарту": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.794313, 50.506242 ] } }
 ]
 }

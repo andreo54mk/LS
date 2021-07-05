@@ -3,6 +3,9 @@
 "features": [
 { "type": "Feature", "properties": { "Назва": "Авангард (Луцьк)", "Корабел": "1" }, "geometry": { "type": "Point", "coordinates": [ 25.337568, 50.754093 ] } },
 { "type": "Feature", "properties": { "Назва": "Авангард (Ужгород)", "Корабел": "1" }, "geometry": { "type": "Point", "coordinates": [ 22.276314, 48.623633 ] } },
+{ "type": "Feature", "properties": { "Назва": "Торпедо (Бердянськ)", "Корабел": "1" }, "geometry": { "type": "Point", "coordinates": [ 36.797075, 46.751381 ] } },
+{ "type": "Feature", "properties": { "Назва": "Енергія (Бердянськ)", "Корабел": "1" }, "geometry": { "type": "Point", "coordinates": [ 36.780869, 46.764754 ] } },
+{ "type": "Feature", "properties": { "Назва": "Дружба (Осипенко)", "Корабел": "1" }, "geometry": { "type": "Point", "coordinates": [ 36.827084, 46.918284 ] } },
 { "type": "Feature", "properties": { "Назва": "ЦСК ЗСУ (Київ)", "Корабел": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.478402, 50.444712 ] } },
 { "type": "Feature", "properties": { "Назва": "Локомотив (Київ)", "Корабел": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.481128, 50.438774 ] } },
 { "type": "Feature", "properties": { "Назва": "Колос  (Ковалівка)", "Корабел": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.008436, 49.985904 ] } },

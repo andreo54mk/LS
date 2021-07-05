@@ -1,6 +1,9 @@
 {
 "type": "FeatureCollection",
 "features": [
+{ "type": "Feature", "properties": { "Назва": "Центральний (Вінниця)", "Володимир Vovas": "1" }, "geometry": { "type": "Point", "coordinates": [ 28.490059, 49.243397 ] } },
+{ "type": "Feature", "properties": { "Назва": "СК Нива (Вінниця)", "Володимир Vovas": "1" }, "geometry": { "type": "Point", "coordinates": [ 28.504983, 49.244122 ] } },
+{ "type": "Feature", "properties": { "Назва": "ЦПКтаВ (Вінниця)", "Володимир Vovas": "1" }, "geometry": { "type": "Point", "coordinates": [ 28.455464, 49.237012 ] } },
 { "type": "Feature", "properties": { "Назва": "Авангард (Ужгород)", "Володимир Vovas": "1" }, "geometry": { "type": "Point", "coordinates": [ 22.276314, 48.623633 ] } },
 { "type": "Feature", "properties": { "Назва": "Локомотив (Чоп)", "Володимир Vovas": "1" }, "geometry": { "type": "Point", "coordinates": [ 22.210005, 48.428179 ] } },
 { "type": "Feature", "properties": { "Назва": "Авангард (Мукачеве)", "Володимир Vovas": "1" }, "geometry": { "type": "Point", "coordinates": [ 22.722827, 48.44723 ] } },
@@ -26,12 +29,16 @@
 { "type": "Feature", "properties": { "Назва": "НТК ім. Баннікова (Київ)", "Володимир Vovas": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.525271, 50.429005 ] } },
 { "type": "Feature", "properties": { "Назва": "Схід (Київ)", "Володимир Vovas": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.643114, 50.426586 ] } },
 { "type": "Feature", "properties": { "Назва": "Спартак (Київ)", "Володимир Vovas": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.474905, 50.4832 ] } },
+{ "type": "Feature", "properties": { "Назва": "НУБіП (Київ)", "Володимир Vovas": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.498696, 50.382818 ] } },
 { "type": "Feature", "properties": { "Назва": "Княжа Арена (запасне поле) (Щасливе)", "Володимир Vovas": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.797027, 50.380605 ] } },
 { "type": "Feature", "properties": { "Назва": "Княжа-Арена (Щасливе)", "Володимир Vovas": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.798862, 50.380379 ] } },
 { "type": "Feature", "properties": { "Назва": "Арсенал-Арена (Щасливе)", "Володимир Vovas": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.802746, 50.376479 ] } },
+{ "type": "Feature", "properties": { "Назва": "Трудові Резерви (Біла Церква)", "Володимир Vovas": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.123696, 49.793324 ] } },
+{ "type": "Feature", "properties": { "Назва": "Зміна (Біла Церква)", "Володимир Vovas": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.09078, 49.786321 ] } },
 { "type": "Feature", "properties": { "Назва": "Колос  (Ковалівка)", "Володимир Vovas": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.008436, 49.985904 ] } },
 { "type": "Feature", "properties": { "Назва": "Машинобудівник ім. Віталія Качановського (Фастів)", "Володимир Vovas": "1" }, "geometry": { "type": "Point", "coordinates": [ 29.922338, 50.079747 ] } },
 { "type": "Feature", "properties": { "Назва": "Центральний ім. М. Бруквенка (Макарів)", "Володимир Vovas": "1" }, "geometry": { "type": "Point", "coordinates": [ 29.8049, 50.458867 ] } },
+{ "type": "Feature", "properties": { "Назва": "КОІСП (Терезине)", "Володимир Vovas": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.110022, 49.860324 ] } },
 { "type": "Feature", "properties": { "Назва": "Дружба (Березань)", "Володимир Vovas": "1" }, "geometry": { "type": "Point", "coordinates": [ 31.461523, 50.310536 ] } },
 { "type": "Feature", "properties": { "Назва": "Діназ (Лютіж)", "Володимир Vovas": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.331814, 50.725562 ] } },
 { "type": "Feature", "properties": { "Назва": "Діназ (Демидів)", "Володимир Vovas": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.384316, 50.682065 ] } },
@@ -58,12 +65,13 @@
 { "type": "Feature", "properties": { "Назва": "Темп (Черкаси)", "Володимир Vovas": "1" }, "geometry": { "type": "Point", "coordinates": [ 32.028472, 49.45818 ] } },
 { "type": "Feature", "properties": { "Назва": "Локомотив (Сміла)", "Володимир Vovas": "1" }, "geometry": { "type": "Point", "coordinates": [ 31.896336, 49.189326 ] } },
 { "type": "Feature", "properties": { "Назва": "Авангард (Сміла)", "Володимир Vovas": "1" }, "geometry": { "type": "Point", "coordinates": [ 31.862969, 49.224422 ] } },
+{ "type": "Feature", "properties": { "Назва": "Центральний (Умань)", "Володимир Vovas": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.215117, 48.747658 ] } },
 { "type": "Feature", "properties": { "Назва": "Зоря (Білозір'я)", "Володимир Vovas": "1" }, "geometry": { "type": "Point", "coordinates": [ 31.896223, 49.296814 ] } },
 { "type": "Feature", "properties": { "Назва": "Буковина (Чернівці)", "Володимир Vovas": "1" }, "geometry": { "type": "Point", "coordinates": [ 25.942025, 48.274928 ] } },
 { "type": "Feature", "properties": { "Назва": "Мальва (Чернівці)", "Володимир Vovas": "1" }, "geometry": { "type": "Point", "coordinates": [ 25.916281, 48.314494 ] } },
 { "type": "Feature", "properties": { "Назва": "Садгора (Чернівці)", "Володимир Vovas": "1" }, "geometry": { "type": "Point", "coordinates": [ 25.956965, 48.353005 ] } },
 { "type": "Feature", "properties": { "Назва": "ФОК \"Олімпія\" (Чернівці)", "Володимир Vovas": "1" }, "geometry": { "type": "Point", "coordinates": [ 25.94431, 48.255191 ] } },
 { "type": "Feature", "properties": { "Назва": "Колос (Новоселиця)", "Володимир Vovas": "1" }, "geometry": { "type": "Point", "coordinates": [ 26.270676, 48.215587 ] } },
-{ "type": "Feature", "properties": { "Назва": "Дружба (Стороинець)", "Володимир Vovas": "1" }, "geometry": { "type": "Point", "coordinates": [ 25.726612, 48.157376 ] } }
+{ "type": "Feature", "properties": { "Назва": "Дружба (Сторожинець)", "Володимир Vovas": "1" }, "geometry": { "type": "Point", "coordinates": [ 25.726612, 48.157376 ] } }
 ]
 }

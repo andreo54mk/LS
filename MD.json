@@ -2,6 +2,7 @@
 "type": "FeatureCollection",
 "features": [
 { "type": "Feature", "properties": { "Назва": "Метеор (Дніпро)", "MD": "1" }, "geometry": { "type": "Point", "coordinates": [ 35.005451, 48.435693 ] } },
+{ "type": "Feature", "properties": { "Назва": "Дніпро-Арена (Дніпро)", "MD": "1" }, "geometry": { "type": "Point", "coordinates": [ 35.032622, 48.459544 ] } },
 { "type": "Feature", "properties": { "Назва": "Олімпійські резерви (Дніпро)", "MD": "1" }, "geometry": { "type": "Point", "coordinates": [ 35.019286, 48.432974 ] } },
 { "type": "Feature", "properties": { "Назва": "ПГЗК (Кривий Ріг)", "MD": "1" }, "geometry": { "type": "Point", "coordinates": [ 33.341875, 47.840757 ] } },
 { "type": "Feature", "properties": { "Назва": "Електрометалург (Нікополь)", "MD": "1" }, "geometry": { "type": "Point", "coordinates": [ 34.392593, 47.562302 ] } },
@@ -11,6 +12,14 @@
 { "type": "Feature", "properties": { "Назва": "Орбіта (Запоріжжя)", "MD": "1" }, "geometry": { "type": "Point", "coordinates": [ 35.128275, 47.837206 ] } },
 { "type": "Feature", "properties": { "Назва": "Мотор-Січ (Запоріжжя)", "MD": "1" }, "geometry": { "type": "Point", "coordinates": [ 35.206718, 47.829586 ] } },
 { "type": "Feature", "properties": { "Назва": "НТБ Металург (Запоріжжя)", "MD": "1" }, "geometry": { "type": "Point", "coordinates": [ 35.095911, 47.910258 ] } },
+{ "type": "Feature", "properties": { "Назва": "Торпедо (Бердянськ)", "MD": "1" }, "geometry": { "type": "Point", "coordinates": [ 36.797075, 46.751381 ] } },
+{ "type": "Feature", "properties": { "Назва": "Енергія (Бердянськ)", "MD": "1" }, "geometry": { "type": "Point", "coordinates": [ 36.780869, 46.764754 ] } },
+{ "type": "Feature", "properties": { "Назва": "Аавнгард (Токмак)", "MD": "1" }, "geometry": { "type": "Point", "coordinates": [ 35.708377, 47.266956 ] } },
+{ "type": "Feature", "properties": { "Назва": "Олімпієць (Приморськ)", "MD": "1" }, "geometry": { "type": "Point", "coordinates": [ 36.358137, 46.728603 ] } },
+{ "type": "Feature", "properties": { "Назва": "СКА (Одеса)", "MD": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.748039, 46.463296 ] } },
+{ "type": "Feature", "properties": { "Назва": "Спартак (Одеса)", "MD": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.748474, 46.46839 ] } },
+{ "type": "Feature", "properties": { "Назва": "ФСК Іван (Одеса)", "MD": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.711433, 46.496191 ] } },
+{ "type": "Feature", "properties": { "Назва": "Краян (Одеса)", "MD": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.729859, 46.463285 ] } },
 { "type": "Feature", "properties": { "Назва": "Олімпійський (Каховка)", "MD": "1" }, "geometry": { "type": "Point", "coordinates": [ 33.470342, 46.803787 ] } },
 { "type": "Feature", "properties": { "Назва": "Енергія (Н.Каховка)", "MD": "1" }, "geometry": { "type": "Point", "coordinates": [ 33.363247, 46.763759 ] } }
 ]

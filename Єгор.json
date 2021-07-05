@@ -23,6 +23,7 @@
 { "type": "Feature", "properties": { "Назва": "Олімпійський (Київ)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.521854, 50.433372 ] } },
 { "type": "Feature", "properties": { "Назва": "Динамо (Київ)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.535185, 50.450403 ] } },
 { "type": "Feature", "properties": { "Назва": "Економіст (Київ)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.43317, 50.458655 ] } },
+{ "type": "Feature", "properties": { "Назва": "Темп (Київ)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.384665, 50.460837 ] } },
 { "type": "Feature", "properties": { "Назва": "НТБ Динамо (Київ)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.56434, 50.32221 ] } },
 { "type": "Feature", "properties": { "Назва": "НТК ім. Баннікова (Київ)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.525271, 50.429005 ] } },
 { "type": "Feature", "properties": { "Назва": "Металіст (Київ)", "Єгор": "1" }, "geometry": { "type": "Point", "coordinates": [ 30.403848, 50.435959 ] } },
